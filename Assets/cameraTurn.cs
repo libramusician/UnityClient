@@ -10,8 +10,8 @@ public class cameraTurn : MonoBehaviour
 {
     Vector3 r = new Vector3(0, 1, 0);
     Vector3 l = new Vector3(0, -1, 0);
-    int width = 720;
-    int height = 512;
+    int width = 640;
+    int height = 640;
     Vector3 currPosition;
     UdpClient client;
 
